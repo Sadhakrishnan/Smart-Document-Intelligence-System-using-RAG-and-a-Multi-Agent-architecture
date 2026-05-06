@@ -319,14 +319,11 @@ doc-intelligence/
 │   ├── summarizer_agent.py
 │   ├── comparison_agent.py
 │
-├── vector_db/
-│   └── store.py
+├── store.py
 │
-├── api/
-│   └── main.py
+├── main.py
 │
-├── frontend/
-│   └── app.py
+├── app.py
 │
 └── README.md
 ```
